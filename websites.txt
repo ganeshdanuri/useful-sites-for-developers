@@ -1,4 +1,4 @@
-Hi, I found some usefull websites for developers. check them out 
+Hi, I found some useful websites for developers. check them out 
 
 1. Hosting Services 
 ~ Netlify
