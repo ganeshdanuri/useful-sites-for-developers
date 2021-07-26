@@ -1,1 +1,37 @@
 Hi, I found some usefull websites for developers. check them out 
+
+1. Hosting Services 
+~ Netlify
+~ Heroku 
+
+2. Royalty Free Images and Videoes
+~ Unplash
+~ Pexels 
+~ Cover.co
+~ undraw.co 
+
+3. Icons and Fonts 
+~ Google Fonts 
+~ FlatIcon 
+~ FontAwesome 
+~ AnimatedIcons 
+
+4. Learning 
+~ FreeCodeCamp 
+~ The odin Project 
+~ mem.dev 
+
+5. Mockup Tools 
+~ Figma 
+~ zeplin 
+
+6. Freelancing 
+~ upword 
+~ Freelancer 
+~ fiverr (one time project)
+
+7. Project Design Ideas 
+~ awwwards.com 
+~ dribble.com 
+
+
