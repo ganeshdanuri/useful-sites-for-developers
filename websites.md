@@ -4,7 +4,6 @@ A curated collection of helpful tools, platforms, and resources for web develope
 
 ## 🚀 Hosting Services
 - [Netlify](https://www.netlify.com/) - Deploy modern static websites with continuous deployment
-- [Heroku](https://www.heroku.com/) - Cloud platform that lets companies build, deliver, monitor, and scale apps
 - [Vercel](https://vercel.com/) - Platform for frontend frameworks and static sites
 - [DigitalOcean](https://www.digitalocean.com/) - Simple cloud computing for developers
 - [Firebase](https://firebase.google.com/) - Google's platform for app development
